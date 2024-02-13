@@ -11,6 +11,7 @@ OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations.  ChatGPT last u
 + <A HREF="https://wa9ony.github.io/ChatGPT/MorseSketch.html">Arduino Morse Code Sketch</A> on GitHub
 + [Arduino UNO Wait Function](https://chat.openai.com/share/5862232a-743b-418a-83ce-b5747a985757)
 + [Pi, e, etc.  Functions](https://chat.openai.com/share/c6e3a0df-16d0-4914-b201-b54953f346f8)
++ [String to Char Conversion](https://chat.openai.com/share/3842bcf1-cb6c-4b68-b7c7-382750ddb48d)
 
 ### Morse Code
 + [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)
