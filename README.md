@@ -15,7 +15,8 @@ OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations.  ChatGPT last u
 ---
 ## Arduino [Lession](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) 2
 
-+
++ [Arduino UNO Pin Connections
+](https://chat.openai.com/share/91386425-450c-4784-af69-fc32d47fb7ef)
 
 ---
 ## ChatGPT Conversation Share Process
@@ -34,5 +35,5 @@ Process
   + If you click on the HTML link in this READ.ME file you will see the HTML page.
   + Note the copy code works, but the "Get started with ChatGPT" link does not work.
 + Add a link to this READ.MD file.
-  + The GitHub Pages link is https://wa9ony.github.io/ChatGPT/
+  + The GitHub Pages link is https://wa9ony.github.io/ChatGPT/ with the HTML file name added to it.
 + Test the link.  
