@@ -5,7 +5,7 @@ OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations.  ChatGPT last u
 ---
 ## Arduino Lession 1
 
-+ <A HREF="https://wa9ony.github.io/ChatGPT/key.html">Key</A><BR>
++ <A HREF="https://wa9ony.github.io/ChatGPT/key.html">Holding Morse Code Key</A><BR>
 + <A HREF="https://wa9ony.github.io/ChatGPT/MorseSketch.html">Morse Sketch</A>
 ---
 ## Arduino Lession 2
