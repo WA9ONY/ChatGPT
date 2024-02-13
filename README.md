@@ -24,6 +24,7 @@ The objective of this ChatGPT Share was to record, organize and store conversati
 The major sections are the lessions and homework of All New Arduino R4 WiFi LESSONS for Absolute Beginners [lessios](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
 
 Process
+[Save ChatGPT conversation](https://chat.openai.com/share/baf3499e-6725-4bb7-94f1-d26e2c089147)
 + Rename a conversation to a meanful name. This name will appear at the top of the shared HTML page.
 + Share a ChatGPT conversation.
 + Save the conversation URL
