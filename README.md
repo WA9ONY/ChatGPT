@@ -4,15 +4,16 @@ OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations.  ChatGPT last u
 ---
 ## Arduino [Lession](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) 1
 
-+ <A HREF="https://wa9ony.github.io/ChatGPT/MorseSketch.html">Arduino Morse Code Sketch</A>
-## Morse Code
-+ <A HREF="https://wa9ony.github.io/ChatGPT/key.html">Holding Morse Code Key</A>
-+ [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)
-
 ---
 ## Arduino [Lession](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) 2
 
 + [Arduino Morse Code Sketch](https://chat.openai.com/share/333d4852-defc-414d-89a0-495fb687b5ab)
++ <A HREF="https://wa9ony.github.io/ChatGPT/MorseSketch.html">Arduino Morse Code Sketch</A>
+
+### Morse Code
++ <A HREF="https://wa9ony.github.io/ChatGPT/key.html">Holding Morse Code Key</A>
++ [Morse code requirements](https://chat.openai.com/share/6d9fa0d0-2cfe-4065-b746-eee7762cbe99)
+
 ---
 ## Arduino [Lession](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) 3
 
