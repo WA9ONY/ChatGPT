@@ -13,7 +13,7 @@ OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations.  ChatGPT last u
 
 +
 ---
-## Arduino [Lession](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) 2
+## Arduino [Lession](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex) 3
 
 + [Arduino UNO Pin Connections
 ](https://chat.openai.com/share/91386425-450c-4784-af69-fc32d47fb7ef)
