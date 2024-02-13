@@ -28,5 +28,6 @@ Process
 + Save the conversation URL
 + Use wget URL to save the HTML file of the conversations.
 + Rename the HTML file to a meanful name without spaces.
-+ Upload HTML file to the WA9ONY/ChatGPT Repositor.
++ Upload HTML file to the [WA9ONY/ChatGPT](https://github.com/WA9ONY/ChatGPT) repositor.
+  + Create a repositor with Page settings. See YouTube video on [GitHub Pages tutorial](https://www.youtube.com/results?search_query=github+pages+tutorial).
 + Add a link to this READ.MD file. 
