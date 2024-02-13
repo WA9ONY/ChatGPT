@@ -28,12 +28,15 @@ Process
 + Share a ChatGPT conversation.
 + Save the conversation URL
 + Use wget URL to save the HTML file of the conversations.
+  + wget stopped working.
+  + [Wget Tutorial](https://chat.openai.com/share/c0aef6f9-e1cb-4e45-8185-2b55ce4b65ba)
 + Rename the HTML file to a meanful name without spaces.
 + Upload HTML file to the [WA9ONY/ChatGPT](https://github.com/WA9ONY/ChatGPT) repositor.
   + Create a repositor with Page settings. See YouTube video on [GitHub Pages tutorial](https://www.youtube.com/results?search_query=github+pages+tutorial).
   + If you click on a HTML page you will see the HTML source.
   + If you click on the HTML link in this READ.ME file you will see the HTML page.
   + Note the copy code works, but the "Get started with ChatGPT" link does not work.
+  + [GitHub HTML Display](https://chat.openai.com/share/50cd8b35-b481-4ad5-8806-b7ee915f7556)
 + Add a link to this READ.MD file.
   + The GitHub Pages link is https://wa9ony.github.io/ChatGPT/ with the HTML file name added to it.
 + Test the link.  
