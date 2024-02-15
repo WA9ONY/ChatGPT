@@ -7,7 +7,12 @@
 © David Haworth   
 </p>
 
-# ChatGPT Conversations Share
+# Arduino Homework ChatGPT Conversations Share
+This GitHub repositor contains ChatGPT conversations that were used in competing the Arduino home. The conversations cover
++ ChatGPT creating Arduino code for the Arduino UNO.
++ Learning how to program in Arduino C++.
++ Researching topics like electronics, Morse code, etc.
+
 OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations related to 
 + GitHub [Arduino Homework](https://github.com/WA9ONY/Arduino-Homework/blob/main/README.md)
 + <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A>
