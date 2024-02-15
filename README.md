@@ -9,8 +9,8 @@
 
 # ChatGPT Conversations Share
 OpenAI [ChatGPT](https://chat.openai.com/) Shared Conversations related to 
-+ [Arduino Homework](https://github.com/WA9ONY/Arduino-Homework/blob/main/README.md)
-+ <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A>.  
++ GitHub [Arduino Homework](https://github.com/WA9ONY/Arduino-Homework/blob/main/README.md)
++ <A HREF="https://www.youtube.com/@WA9ONYHomework">YouTube Homework</A>
 
 ChatGPT last update is in April 2023 and ChatGPT does not know about the Arduino UNO R4, but useful information can be obtain from ChatGPT knowledge of the Arduino UNO R#3 and other boards.
 
